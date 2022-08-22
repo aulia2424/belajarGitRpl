@@ -1,2 +1,3 @@
 Nama Saya : Aulia
-Hobi : Ngaji
+Tempat Tanggal Lahir : Bogor
+Sekolah : Fatahilah
